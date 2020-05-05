@@ -14,7 +14,14 @@ In this I created a dash board that contains the daily stocks charts, financial 
 This will read the data from the two excel file and update the data accordingly.we can also import the data using API's that will allow the
 data update according .This is also a dynamic dash board.
 
-SOME SNIPPETS OF THIS PROJECT:
+<h1>SOME SNIPPETS OF THIS PROJECT:</h1>
+
 <img src="img/1.PNG" >
+<img src="img/2.PNG" >
+<img src="img/3.PNG" >
+<img src="img/4.PNG" >
+<img src="img/5.PNG" >
+<img src="img/6.PNG" >
+<img src="img/7.PNG" >
 
 
