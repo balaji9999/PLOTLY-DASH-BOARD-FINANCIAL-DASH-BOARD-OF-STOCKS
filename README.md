@@ -15,6 +15,6 @@ This will read the data from the two excel file and update the data accordingly.
 data update according .This is also a dynamic dash board.
 
 SOME SNIPPETS OF THIS PROJECT:
-<img src="img/1.png" >
+<img src="https://github.com/balaji9999/PYTHON-DASH-PLOTLY-DASH-BOARD-FINANCIAL-DASH-BOARD-OF-STOCKS-TECHNICAL-INDICATORS-FUNDAMENTALS/tree/master/img/1.png" >
 
 
