@@ -15,5 +15,6 @@ This will read the data from the two excel file and update the data accordingly.
 data update according .This is also a dynamic dash board.
 
 SOME SNIPPETS OF THIS PROJECT:
+<img src="img/1.png" >
 
 
